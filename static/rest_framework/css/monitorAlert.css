@@ -1,0 +1,11 @@
+.normalRow{
+    background-color: palegreen;
+}
+
+.warnRow{
+    background-color: peru;
+}
+
+.dangerRow{
+    background-color: red;
+}
